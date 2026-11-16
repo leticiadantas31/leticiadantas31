@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="Contador de Visitas" />
 </div>
 <!-- LINHA DIVISÓRIA ANIMADA -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif%22 width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 <h1>👨‍💻 Sobre Mim</h1>
 <p>
